@@ -1,0 +1,1 @@
+/* Chinook script to create Chinook database for sqlite */
